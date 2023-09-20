@@ -1,0 +1,1938 @@
+[ 
+    {
+        "name": " boAt Airdopes m12 || Earbuds",
+        "price":1200,
+        "description": " boAt Airdopes Atom 81 True Wireless Earbuds with Upto 50H Playtime, Quad Mics ENx™ Tech, 13MM Drivers,Super Low Latency(50ms), ASAP™ Charge, BT v5.3(Opal Black)",
+        "ratings": 5.0,
+        "images": [
+            {
+                "image":"/images/products/boat1.jpg"
+            },
+            {
+                "image":"/images/products/boat2.jpg"
+            },
+            {
+                "image":"/images/products/boat3.jpg"
+            },
+            {
+                "image":"/images/products/boat4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 17,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "Boult Audio Z40 || Earbuds",
+        "price": 1399,
+        "description": "Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime, Zen™ ENC Mic, Low Latency Gaming, Type-C Fast Charging, Made in India, 10mm Rich Bass Drivers, IPX5, Bluetooth 5.3 Ear Buds TWS ",
+        "ratings": 4.2,
+        "images": [
+            
+            {
+                "image":"/images/products/boult1.jpg"
+            },
+            {
+                "image":"/images/products/boult2.jpg"
+            },
+            {
+                "image":"/images/products/boult3.jpg"
+            },
+            {
+                "image":"/images/products/boult4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Flipkart",
+        "stock": 10,
+        "numOfReviews": 40,
+        "reviews": []
+    },
+
+    {
+        "name": " PTron Bassbuds || Earbuds ",
+        "price":699,
+        "description": " PTron Bassbuds Jade Truly Wireless Earbuds, 40ms Gaming Low Latency TWS, Stereo Calls, 40Hrs Playtime, Punchy Bass, in-Ear Bluetooth Headphones, Fast Type-C Charging & IPX4 Waterproof (Green)",
+        "ratings": 3.5,
+        "images": [
+            
+            {
+                "image":"/images/products/ptrn1.jpg"
+            },
+            {
+                "image":"/images/products/ptrn2.jpg"
+            },
+            {
+                "image":"/images/products/ptrn3.jpg"
+            },
+            {
+                "image":"/images/products/ptrn4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 8,
+        "numOfReviews": 45,
+        "reviews": []
+    },
+    
+    { 
+        "name": "OnePlus Buds Pro 2 || Earbuds",
+        "price": 11999,
+        "description": "OnePlus Buds Pro 2 Bluetooth Truly Wireless in Ear Earbuds with Spatial Audio Dynamic Head Tracking,co-Created with Dynaudio,Upto 48dB Adaptive Noise Cancellation,Upto 40Hrs Battery",
+        "ratings": 5,
+        "images": [
+            
+            {
+                "image":"/images/products/onepls1.jpg"
+            },
+            {
+                "image":"/images/products/onepls2.jpg"
+            },
+            {
+                "image":"/images/products/onepls3.jpg"
+            },
+            {
+                "image":"/images/products/onepls4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Flipkart",
+        "stock": 18,
+        "numOfReviews": 27,
+        "reviews": []
+    },
+    {
+        "name": "JBL Tune 510BT || Headphones",
+        "price": 5288,
+        "description": "JBL Tune 510BT, On Ear Wireless Headphones with Mic, up to 40 Hours Playtime, Pure Bass, Quick Charging, Dual Pairing, Bluetooth 5.0 & Voice Assistant Support for Mobile Phones",
+        "ratings": 4.5,
+        "images": [
+            
+            {
+                "image":"/images/products/jbl1.jpg"
+            },
+            {
+                "image":"/images/products/jbl2.jpg"
+            },
+            {
+                "image":"/images/products/jbl3.jpg"
+            },
+            {
+                "image":"/images/products/jbl4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Flipkart",
+        "stock": 12,
+        "numOfReviews": 24,
+        "reviews": []
+    },
+    {
+        "name": "Skullcandy Hesh Evo || Headphones",
+        "price": 5288,
+        "description": "Skullcandy Hesh Evo Wireless Over-Ear Headphone, Rapid Charge (10 min = 3 hrs), Noise-Isolating Fit and Built-in Tile Finding Technology",
+        "ratings": 4,
+        "images": [
+            
+            {
+                "image":"/images/products/skullcndy1.jpg"
+            },
+            {
+                "image":"/images/products/skullcndy2.jpg"
+            },
+            {
+                "image":"/images/products/skullcndy3.jpg"
+            },
+            {
+                "image":"/images/products/skullcndy4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 18,
+        "numOfReviews": 38,
+        "reviews": []
+    },
+    {
+        "name": "Logitech G733 || Headphones",
+        "price": 11999,
+        "description": "Logitech G733 Lightspeed Bluetooth Wireless On Ear Headphones with Mic Gaming with Suspension Headband, Lightsync RGB, Blue Vo!Ce Mic Technology and Pro-G Audio Drivers",
+        "ratings": 4.8,
+        "images": [
+            
+            {
+                "image":"/images/products/lg1.jpg"
+            },
+            {
+                "image":"/images/products/lg2.jpg"
+            },
+            {
+                "image":"/images/products/lg3.jpg"
+            },
+            {
+                "image":"/images/products/lg4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 18,
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "boAt Rockerz 255 Pro+ || Headphones",
+        "price": 1499,
+        "description": "boAt Rockerz 255 Pro+ Bluetooth in Ear Earphones with Upto 60 Hours Playback, ASAP Charge, IPX7, Dual Pairing and Bluetooth v5.0(Teal Green)",
+        "ratings": 4.2,
+        "images": [
+            
+            {
+                "image":"/images/products/bthd1.jpg"
+            },
+            {
+                "image":"/images/products/bthd2.jpg"
+            },
+            {
+                "image":"/images/products/bthd3.jpg"
+            },
+            {
+                "image":"/images/products/bthd4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 12,
+        "numOfReviews":43,
+        "reviews": []
+    },
+    {
+        "name": " Amazon Basics || Earbuds",
+        "price": 899,
+        "description": " Amazon Basics True Wireless in-Ear Earbuds with Mic, Low-Latency Gaming Mode, Touch Control, IPX5 Water-Resistance, Bluetooth 5.3, Up to 50 Hours Play Time, Voice Assistance and Fast Charging ",
+        "ratings": 3.2,
+        "images": [
+            
+            {
+                "image":"/images/products/amzn1.jpg"
+            },
+            {
+                "image":"/images/products/amzn2.jpg"
+            },
+            {
+                "image":"/images/products/amzn3.jpg"
+            },
+            {
+                "image":"/images/products/amzn4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 42,
+        "reviews": []
+    },
+    {
+        "name": "ASUS VivoBook 15 || Laptops",
+        "price": 64990,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+        "ratings":3.4,
+        "images": [
+          {
+            "image": "/images/products/lpas1.jpg"
+          },
+          {
+            "image": "/images/products/lpas2.jpg"
+          },
+          {
+            "image": "/images/products/lpas3.jpg"
+          },
+          {
+            "image": "/images/products/lpas4.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Acer Aspire 5 || Laptops",
+        "price": 43999,
+        "description": "Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen (16 GB/512 GB SSD/Win11 Home/4GB Graphics/RTX 2050) A515-57G (15.6 FHD Display, 1.8 Kg) - Flat",
+        "ratings": 3,
+        "images": [
+          {
+            "image": "/images/products/lpacr1.jpg"
+          },
+          {
+            "image": "/images/products/lpacr2.jpg"
+          },
+          {
+            "image": "/images/products/lpacr3.jpg"
+          },
+          {
+            "image": "/images/products/lpacr4.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Flipkart",
+        "stock": 11,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Dell Inspiron 3511 || Laptops",
+        "price": 43600,
+        "description": "Dell 14, Intel 12th Gen i5-1235U Laptop/8GB/512GB SSD/14.0 (35.56cm) FHD TÜV Rheinland Certified Comfortview to Reduce Harmful Blue Light Emission/Windows 11 + MSO'21/Black/15 Month McAfee,1.48kg",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/lpdl1.jpg"
+            },
+            {
+                "image": "/images/products/lpdl2.jpg"
+            },
+            {
+                "image": "/images/products/lpdl3.jpg"
+            },
+            {
+                "image": "/images/products/lpdl4.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 13,
+        "numOfReviews": 52,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 || Laptops",
+        "price": 38990,
+        "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+        "ratings": 2.4,
+        "images": [
+          {
+            "image": "/images/products/lplnv1.jpg"
+          },
+          {
+            "image": "/images/products/lplnv2.jpg"
+          },
+          {
+            "image": "/images/products/lplnv3.jpg"
+          },
+          {
+            "image": "/images/products/lplnv4.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 19,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "Apple 2023 MacBook Air || Laptops",
+        "price": 134900,
+        "description": "Apple 2023 MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/lpmc1.jpg"
+          },
+          {
+            "image": "/images/products/lpmc2.jpg"
+          },
+          {
+            "image": "/images/products/lpmc3.jpg"
+          },
+          {
+            "image": "/images/products/lpmc4.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 9,
+        "numOfReviews": 45,
+        "reviews": []
+    },
+    {
+        "name": "HP 15s || Laptops",
+        "price": 43509,
+        "description": "HP Laptop 15s, 11th Gen Intel Core i3-1115G4, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, Intel UHD Graphics, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg)",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/lphp1.jpg"
+          },
+          {
+            "image": "/images/products/lphp2.jpg"
+          },
+          {
+            "image": "/images/products/lphp3.jpg"
+          },
+          {
+            "image": "/images/products/lphp4.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 31,
+        "reviews": []
+    },
+    {
+        "name": "Dratal European Antique Landline || Mobile Phones",
+        "price": 6499,
+        "description": "Dratal European Rotary Corded Antique Telephone Old Vintage Rotary Dial Phone Handset Turntable Telephone Office Telephone Antique Landline",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/tl1.jpg"
+            },
+            {
+                "image": "/images/products/tl2.jpg"
+            },
+            {
+                "image": "/images/products/tl3.jpg"
+            },
+            {
+                "image": "/images/products/tl4.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 9,
+        "numOfReviews": 24,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo Tab M10 5G || Mobile Phones",
+        "price": 28999,
+        "description": "Lenovo Tab M10 5G |10.6 inch (26.9cm)| 6 GB, 128 GB Expandable|Wi-Fi+ 5G | 90 Hz, 2K Display (2000x1200)|Dual Speakers with Dolby Atmos |Android 13 | Octa-Core Processor (Abyss Blue, ZACT0030IN)",
+        "ratings": 3.3,
+        "images": [
+            {
+                "image": "/images/products/tblnv1.jpg"
+            },
+            {
+                "image": "/images/products/tblnv2.jpg"
+            },
+            {
+                "image": "/images/products/tblnv3.jpg"
+            },
+            {
+                "image": "/images/products/tblnv4.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Flipkart",
+        "stock": 14,
+        "numOfReviews": 21,
+        "reviews": []
+    },
+    {
+        "name": "Redmi Note 12 5G || Mobile Phones",
+        "price": 21499,
+        "description": "Redmi Note 12 5G Frosted Green 4GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/mbrdm1.jpg"
+            },
+            {
+                "image": "/images/products/mbrdm2.jpg"
+            },
+            {
+                "image": "/images/products/mbrdm3.jpg"
+            },
+            {
+                "image": "/images/products/mbrdm4.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Meesho",
+        "stock": 16,
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus Nord CE 3 Lite 5G || Mobile Phones",
+        "price": 28999,
+        "description": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/mbops1.jpg"
+            },
+            {
+                "image": "/images/products/mbops2.jpg"
+            },
+            {
+                "image": "/images/products/mbops3.jpg"
+            },
+            {
+                "image": "/images/products/mbops4.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 16,
+        "numOfReviews": 35,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy M34 5G || Mobile Phones",
+        "price": 20999,
+        "description": "Samsung Galaxy M34 5G (Midnight Blue, 6GB, 128GB Storage) | 120Hz sAMOLED Display | 50MP Triple No Shake Cam | 6000 mAh Battery | 12GB RAM with RAM Plus | Android 13 | Without Charger",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/mbsm1.jpg"
+            },
+            {
+                "image": "/images/products/mbsm2.jpg"
+            },
+            {
+                "image": "/images/products/mbsm3.jpg"
+            },
+            {
+                "image": "/images/products/mbsm4.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 15,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+    {
+        "name": "realme narzo 60 5G || Mobile Phones",
+        "price": 17103,
+        "description": "realme narzo 60 5G (Mars Orange,8GB+128GB) 90Hz Super AMOLED Display | Ultra Premium Vegan Leather Design | with 33W SUPERVOOC Charger",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/mbrl1.jpg"
+            },
+            {
+                "image": "/images/products/mbrl2.jpg"
+            },
+            {
+                "image": "/images/products/mbrl3.jpg"
+            },
+            {
+                "image": "/images/products/mbrl4.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Meesho",
+        "stock": 16,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "CAT Caterpillar || Shoes",
+        "price": 16508,
+        "description": "CAT Caterpillar Men's Second Shift St Leather Boots",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/sct1.jpg"
+            },
+            {
+                "image": "/images/products/sct2.jpg"
+            },
+            {
+                "image": "/images/products/sct3.jpg"
+            },
+            {
+                "image": "/images/products/sct4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Meesho",
+        "stock": 16,
+        "numOfReviews": 23,
+        "reviews": []
+    },
+    {
+        "name": "CAT Trespass Waterproof Galosh || Shoes",
+        "price": 23999,
+        "description": "CAT Trespass Waterproof Galosh Men's Second Shift St Leather Boots",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/sctt1.jpg"
+            },
+            {
+                "image": "/images/products/sctt2.jpg"
+            },
+            {
+                "image": "/images/products/sctt3.jpg"
+            },
+            {
+                "image": "/images/products/sctt4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Meesho",
+        "stock": 19,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "CAT Raider Sport Sneaker || Shoes",
+        "price": 18292,
+        "description": "CAT Raider Sport Sneaker Men's Second Shift St Leather Boots",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/scttt1.jpg"
+            },
+            {
+                "image": "/images/products/scttt2.jpg"
+            },
+            {
+                "image": "/images/products/scttt3.jpg"
+            },
+            {
+                "image": "/images/products/scttt4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Amazon",
+        "stock": 13,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+    {
+        "name": "Bacca Bucci || Shoes",
+        "price": 2899,
+        "description": "Bacca Bucci Boys or Girls Streetwear Flat Heel High-top Fashions Sneakers (Age : 8 Years to 12 Years)",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/sbb1.jpg"
+            },
+            {
+                "image": "/images/products/sbb2.jpg"
+            },
+            {
+                "image": "/images/products/sbb3.jpg"
+            },
+            {
+                "image": "/images/products/sbb4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Ebay",
+        "stock": 14,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "PUMA x HARRDY || Shoes",
+        "price": 8999,
+        "description": "Meet the leader of the pack. Walking on clouds above the noise, the Air Max 1 blends timeless design with cushioned comfort. Sporting a fast-paced look, wavy mudguard and Nike Air, this classic icon hit the scene in '87 and continues to be the soul of the franchise today.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/sjrdnn1.jpg"
+            },
+            {
+                "image": "/images/products/sjrdnn2.jpg"
+            },
+            {
+                "image": "/images/products/sjrdnn3.jpg"
+            },
+            {
+                "image": "/images/products/sjrdnn4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Amazon",
+        "stock": 17,
+        "numOfReviews": 19,
+        "reviews": []
+    },
+    {
+        "name": "BMW M Motorsport X-Ray Speed || Shoes",
+        "price": 12988,
+        "description": "BMW M Motorsport X-Ray Speed Unisex Sneakers Softride Vital Strap Eng Msh",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/spm1.jpg"
+            },
+            {
+                "image": "/images/products/spm2.jpg"
+            },
+            {
+                "image": "/images/products/spm3.jpg"
+            },
+            {
+                "image": "/images/products/spm4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Flipkart",
+        "stock": 15,
+        "numOfReviews": 14,
+        "reviews": []
+    },
+    {
+        "name": "ADIDAS YEEZY 700 V3 COPPER FADE || Shoes",
+        "price": 14434,
+        "description": "ADIDAS YEEZY 700 V3 COPPER FADE Mens Abor Sneakers",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/susp1.jpg"
+            },
+            {
+                "image": "/images/products/susp2.jpg"
+            },
+            {
+                "image": "/images/products/susp3.jpg"
+            },
+            {
+                "image": "/images/products/susp4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Adidas",
+        "stock": 11,
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "U.S. POLO ASSN || Shoes",
+        "price": 4499,
+        "description":"U.S. POLO ASSN. Mens Tresten Sneakers",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/suspa1.jpg"
+            },
+            {
+                "image": "/images/products/suspa2.jpg"
+            },
+            {
+                "image": "/images/products/suspa3.jpg"
+            },
+            {
+                "image": "/images/products/suspa4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Amazon",
+        "stock": 16,
+        "numOfReviews": 29,
+        "reviews": []
+    },
+    {
+        "name": "Jordan Max Aura 5 || Shoes",
+        "price": 11895,
+        "description": "The high raised back cover with extra padding.",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/sjrdn1.jpg"
+            },
+            {
+                "image": "/images/products/sjrdn2.jpg"
+            },
+            {
+                "image": "/images/products/sjrdn3.jpg"
+            },
+            {
+                "image": "/images/products/sjrdn4.jpg"
+            }
+        ],
+        "category": "Shoes",
+        "seller": "Ebay",
+        "stock": 12,
+        "numOfReviews": 13,
+        "reviews": []
+    },
+    {
+        "name": "Dennis Lingo || Shirt",
+        "price": 1299,
+        "description": "Dennis Lingo Men's Solid Slim Fit Cotton Casual Shirt with Spread Collar & Full Sleeves",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/srtd1.jpg"
+            },
+            {
+                "image": "/images/products/srtd2.jpg"
+            },
+            {
+                "image": "/images/products/srtd3.jpg"
+            },
+            {
+                "image": "/images/products/srtd4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 19,
+        "numOfReviews": 23,
+        "reviews": []
+    },
+    {
+        "name": "Van Heusen Men Formal Shirt || Shirt",
+        "price": 2388,
+        "description": "Van Heusen Men Formal Shirt Shirt (VSSFLSLBJ84621_Yellow 39)",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/srtdm1.jpg"
+            },
+            {
+                "image": "/images/products/srtdm2.jpg"
+            },
+            {
+                "image": "/images/products/srtdm3.jpg"
+            },
+            {
+                "image": "/images/products/srtdm4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Ebay",
+        "stock": 16,
+        "numOfReviews": 23,
+        "reviews": []
+    },
+    {
+        "name": "Allen Solly || Shirt",
+        "price": 2499,
+        "description": "Allen Solly Men's Regular Fit Formal Shirt",
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/srtdn1.jpg"
+            },
+            {
+                "image": "/images/products/srtdn2.jpg"
+            },
+            {
+                "image": "/images/products/srtdn3.jpg"
+            },
+            {
+                "image": "/images/products/srtdn4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Flipkart",
+        "stock": 13,
+        "numOfReviews": 26,
+        "reviews": []
+    },
+    {
+        "name": "Casual Shirt for Men",
+        "price": 999,
+        "description": "Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (J-Mistry)",
+        "ratings": 3.0,
+        "images": [
+            {
+                "image": "/images/products/srtj1.jpg"
+            },
+            {
+                "image": "/images/products/srtj2.jpg"
+            },
+            {
+                "image": "/images/products/srtj3.jpg"
+            },
+            {
+                "image": "/images/products/srtj4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Meesho",
+        "stock": 19,
+        "numOfReviews": 21,
+        "reviews": []
+    },
+    {
+        "name": "GRITSTONES Men Hooded Block Printed Cotton T-Shirt",
+        "price": 799,
+        "description": "GRITSTONES Men Hooded Block Printed Cotton T-Shirt",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/srts1.jpg"
+            },
+            {
+                "image": "/images/products/srts2.jpg"
+            },
+            {
+                "image": "/images/products/srts3.jpg"
+            },
+            {
+                "image": "/images/products/srts4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 18,
+        "numOfReviews": 11,
+        "reviews": []
+    },
+    {
+        "name": "Van Heusen Men's T-Shirt",
+        "price": 1199,
+        "description": "Van Heusen Men's Regular Fit Polo Shirt",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/srtt1.jpg"
+            },
+            {
+                "image": "/images/products/srtt2.jpg"
+            },
+            {
+                "image": "/images/products/srtt3.jpg"
+            },
+            {
+                "image": "/images/products/srtt4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Meesho",
+        "stock": 17,
+        "numOfReviews": 14,
+        "reviews": []
+    },
+    {
+        "name": "Adidas Men T-Shirt",
+        "price": 856,
+        "description": "Adidas Men T-Shirt - Symbol Men's Regular Fit Shirt",
+        "ratings": 3.2,
+        "images": [
+            {
+                "image": "/images/products/srtta1.jpg"
+            },
+            {
+                "image": "/images/products/srtta2.jpg"
+            },
+            {
+                "image": "/images/products/srtta3.jpg"
+            },
+            {
+                "image": "/images/products/srtta4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 15,
+        "numOfReviews": 14,
+        "reviews": []
+    },
+    {
+        "name": "Nike Men T-Shirt",
+        "price": 999,
+        "description": "Nike Men T-Shirt Cotton Printed Round Neck Loose Fit Oversized T-Shirt | Hip Hop Casual T-Shirt",
+        "ratings": 3.0,
+        "images": [
+            {
+                "image": "/images/products/srttb1.jpg"
+            },
+            {
+                "image": "/images/products/srttb2.jpg"
+            },
+            {
+                "image": "/images/products/srttb3.jpg"
+            },
+            {
+                "image": "/images/products/srttb4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Flipkart",
+        "stock": 10,
+        "numOfReviews": 14,
+        "reviews": []
+    },
+    {
+        "name": "Tommy Hilfiger Men T-Shirt",
+        "price": 1679,
+        "description": "Tommy Hilfiger Men T-Shirt Cotton Black & White Oversized Fit Graphic Printed Half Sleeve T-Shirt for Men (OS_100_MAV4011_BK)",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/srttc1.jpg"
+            },
+            {
+                "image": "/images/products/srttc2.jpg"
+            },
+            {
+                "image": "/images/products/srttc3.jpg"
+            },
+            {
+                "image": "/images/products/srttc4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 16,
+        "numOfReviews": 24,
+        "reviews": []
+    },
+    {
+        "name": "Levi's Men's Jeans 550",
+        "price": 4999,
+        "description": "Levi's Men's 550 Relaxed Tapered Fit Jeans",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/ptj1.jpg"
+            },
+            {
+                "image": "/images/products/ptj2.jpg"
+            },
+            {
+                "image": "/images/products/ptj3.jpg"
+            },
+            {
+                "image": "/images/products/ptj4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 11,
+        "numOfReviews": 16,
+        "reviews": []
+    },
+    {
+        "name": "Allen Solly Men's Slim Jeans Color Collections",
+        "price": 2760,
+        "description": "Allen Solly Men's Slim Jeans Color Collections",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "/images/products/ptal1.jpg"
+            },
+            {
+                "image": "/images/products/ptal2.jpg"
+            },
+            {
+                "image": "/images/products/ptal3.jpg"
+            },
+            {
+                "image": "/images/products/ptal4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Flipkart",
+        "stock": 19,
+        "numOfReviews": 26,
+        "reviews": []
+    },
+    {
+        "name": "blackberrys Tide Slim Fit Jeans in Indigo",
+        "price": 2306,
+        "description": "blackberrys Tide Slim Fit Jeans in Indigo",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/ptbb1.jpg"
+            },
+            {
+                "image": "/images/products/ptbb2.jpg"
+            },
+            {
+                "image": "/images/products/ptbb3.jpg"
+            },
+            {
+                "image": "/images/products/ptbb4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 17,
+        "numOfReviews": 26,
+        "reviews": []
+    },
+    {
+        "name": "Lee Men's Skinny Fit Jeans",
+        "price": 2439,
+        "description": "Lee Men's Skinny, Relaxed Tapered Fit Jeans",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/ptl1.jpg"
+            },
+            {
+                "image": "/images/products/ptl2.jpg"
+            },
+            {
+                "image": "/images/products/ptl3.jpg"
+            },
+            {
+                "image": "/images/products/ptl4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 16,
+        "numOfReviews": 36,
+        "reviews": []
+    },
+    {
+        "name": "Wrangler Men's Skinny Fit Jeans",
+        "price": 2599,
+        "description": "Wrangler Men's Skinny , Relaxed Tapered Fit Jeans",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/ptw1.jpg"
+            },
+            {
+                "image": "/images/products/ptw2.jpg"
+            },
+            {
+                "image": "/images/products/ptw3.jpg"
+            },
+            {
+                "image": "/images/products/ptw4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Amazon",
+        "stock": 18,
+        "numOfReviews": 16,
+        "reviews": []
+    },
+    {
+        "name": "U.S. POLO ASSN. Men's Skinny Jeans",
+        "price": 2735,
+        "description": "U.S. POLO ASSN. Men's Skinny, Relaxed Tapered Fit Jeans",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/ptus1.jpg"
+            },
+            {
+                "image": "/images/products/ptus2.jpg"
+            },
+            {
+                "image": "/images/products/ptus3.jpg"
+            },
+            {
+                "image": "/images/products/ptus4.jpg"
+            }
+        ],
+        "category": "Clothes",
+        "seller": "Meesho",
+        "stock": 14,
+        "numOfReviews": 17,
+        "reviews": []
+    },
+    {
+        "name": "Neutrogena Triple Age || Crm",
+        "price": 3470,
+        "description": "Neutrogena Triple Age Repair Anti-Aging Night Cream with Vitamin C; Fights Wrinkles & Even Tone, Dark Spot Remover & Firming Anti-Wrinkle Face & Neck Cream; Glycerin & Shea Butter, 1.7 oz",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/fcntry1.jpg"
+            },
+            {
+                "image": "/images/products/fcntry2.jpg"
+            },
+            {
+                "image": "/images/products/fcntry3.jpg"
+            },
+            {
+                "image": "/images/products/fcntry4.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "Flipkart",
+        "stock": 14,
+        "numOfReviews": 19,
+        "reviews": []
+    },
+    {
+        "name": "Olay Regenerist Retinol 24 || Crm ",
+        "price": 1299,
+        "description": "Olay Regenerist Retinol 24 Cream l Renews and Resurfaces Skin Overnight l No Redness or Irritation l 24-Hour Hydration l Suitable for Normal, Oily, Dry and Combination Skin l For Daily Use l 50g",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/fco1.jpg"
+            },
+            {
+                "image": "/images/products/fco2.jpg"
+            },
+            {
+                "image": "/images/products/fco3.jpg"
+            },
+            {
+                "image": "/images/products/fco4.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "Flipkart",
+        "stock": 14,
+        "numOfReviews": 19,
+        "reviews": []
+    },
+    {
+        "name": "O3+ D-TAN || Crm",
+        "price": 1441,
+        "description": "O3+ D-TAN Professional Pack For Instant Tan Removal For all skin Types (300g)",
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/fcoo1.jpg"
+            },
+            {
+                "image": "/images/products/fcoo2.jpg"
+            },
+            {
+                "image": "/images/products/fcoo3.jpg"
+            },
+            {
+                "image": "/images/products/fcoo4.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "Amazon",
+        "stock": 18,
+        "numOfReviews": 24,
+        "reviews": []
+    },
+    {
+        "name": "Yardley London Gentleman || Spy",
+        "price": 1235,
+        "description": "Yardley London Gentleman Range Deo Body Spray Tripack (Classic + Urbane + Royale) for Men, 150ml Each (Pack of 3)",
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/spyydy1.jpg"
+            },
+            {
+                "image": "/images/products/spyydy2.jpg"
+            },
+            {
+                "image": "/images/products/spyydy3.jpg"
+            },
+            {
+                "image": "/images/products/spyydy4.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "Amazon",
+        "stock": 18,
+        "numOfReviews": 24,
+        "reviews": []
+    },
+    {
+        "name": "SKINN BY TITAN || Spy ",
+        "price": 1610,
+        "description": "SKINN BY TITAN Nude Eau De Parfum For Women, 100 ml",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/spytn1.jpg"
+            },
+            {
+                "image": "/images/products/spytn2.jpg"
+            },
+            {
+                "image": "/images/products/spytn3.jpg"
+            },
+            {
+                "image": "/images/products/spytn4.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "Meesho",
+        "stock": 12,
+        "numOfReviews": 24,
+        "reviews": []
+    },
+    {
+        "name": "Fogg Long-Lasting || Spy",
+        "price": 446,
+        "description": "Fogg Long-Lasting Fresh & Soothing Fragrance Impressio Scent For Men, Eau De Parfum, 100ml",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/spyfg1.jpg"
+            },
+            {
+                "image": "/images/products/spyfg2.jpg"
+            },
+            {
+                "image": "/images/products/spyfg3.jpg"
+            },
+            {
+                "image": "/images/products/spyfg4.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "Amazon",
+        "stock": 17,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+    {
+        "name": "Pawells® Premium Gym Accessories Combo ",
+        "price": 1299,
+        "description": "Pawells® Premium Gym Accessories Combo Set for Men and Women Workout with Skipping Rope, Duffle Bag, Wrist Wrap, Deadlift Belt & Strap, Sipper/Shaker - All-in-One Fitness GYM Kit (Pack Of 7)",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/accgb1.jpg"
+            },
+            {
+                "image": "/images/products/accgb2.jpg"
+            },
+            {
+                "image": "/images/products/accgb3.jpg"
+            },
+            {
+                "image": "/images/products/accgb4.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 13,
+        "numOfReviews": 24,
+        "reviews": []
+    },
+    {
+        "name": "Kitssential® Microfiber Flexible Duster Car Wash ",
+        "price": 349,
+        "description": "Kitssential® Microfiber Flexible Duster Car Wash | Car Cleaning Accessories | Microfiber | Brushes | Dry/Wet Home, Kitchen, Cleaning Brush with Expandable Handle (Multicolor)",
+        "ratings": 3.6,
+        "images": [
+            {
+                "image": "/images/products/accr1.jpg"
+            },
+            {
+                "image": "/images/products/accr2.jpg"
+            },
+            {
+                "image": "/images/products/accr3.jpg"
+            },
+            {
+                "image": "/images/products/accr4.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Meesho",
+        "stock": 18,
+        "numOfReviews": 26,
+        "reviews": []
+    },
+    {
+        "name": "FYA Handheld Vacuum Cleaner",
+        "price": 2575,
+        "description": "FYA Handheld Vacuum Cleaner Cordless-LT103, Portable Car Vacuum Cleaner Rechargeable with HEPA Filter, Mini Hand Held Car Interior Vacuum Cleaning Accessories",
+        "ratings": 3.9,
+        "images": [
+            {
+                "image": "/images/products/accv1.jpg"
+            },
+            {
+                "image": "/images/products/accv2.jpg"
+            },
+            {
+                "image": "/images/products/accv3.jpg"
+            },
+            {
+                "image": "/images/products/accv4.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Amazon",
+        "stock": 14,
+        "numOfReviews": 21,
+        "reviews": []
+    },
+    {
+        "name": "Glaceon 12V Cooling Car Seat",
+        "price": 5499,
+        "description": "Glaceon 12V Cooling Car Seat Cushion Cover Air Ventilated 16 Fan Conditioned Cooler Pad 3 Speeds Car Seat Cushion Cover Universal Universal fit for Most Cars || with Massage ||",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/accst1.jpg"
+            },
+            {
+                "image": "/images/products/accst2.jpg"
+            },
+            {
+                "image": "/images/products/accst3.jpg"
+            },
+            {
+                "image": "/images/products/accst4.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 18,
+        "numOfReviews": 23,
+        "reviews": []
+    },
+    {
+        "name": "Allextreme TURBO Riding Jacket",
+        "price": 4265,
+        "description": "Allextreme TURBO Riding Jacket Mesh Cafe Racer Jackets Motorcycle Adventure/Touring Bike Accessory Impact Protection Armour All Season Night Visibility Stickers for Men",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/accjk1.jpg"
+            },
+            {
+                "image": "/images/products/accjk2.jpg"
+            },
+            {
+                "image": "/images/products/accjk3.jpg"
+            },
+            {
+                "image": "/images/products/accjk4.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Meesho",
+        "stock": 7,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Qunan Full face Bike Helmet",
+        "price": 16379,
+        "description": "Qunan Full face Bike Helmet Adult Bike Helmet wi Removable Chin Guard and Visor for Mountain Biking",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/acchlmt1.jpg"
+            },
+            {
+                "image": "/images/products/acchlmt2.jpg"
+            },
+            {
+                "image": "/images/products/acchlmt3.jpg"
+            },
+            {
+                "image": "/images/products/acchlmt4.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Amazon",
+        "stock": 11,
+        "numOfReviews": 29,
+        "reviews": []
+    },
+    {
+        "name": "CrossBeats Armour 1.43",
+        "price": 3999,
+        "description": "CrossBeats Armour 1.43 Super AMOLED Swimproof Always ON Bluetooth Calling Rugged Outdoor Military Standard Certified, 125+ Sports Modes, 15 Day Battery Life Smartwatch for Men (Green)",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/accw1.jpg"
+            },
+            {
+                "image": "/images/products/accw2.jpg"
+            },
+            {
+                "image": "/images/products/accw3.jpg"
+            },
+            {
+                "image": "/images/products/accw4.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Amazon",
+        "stock": 19,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "MINIX Bond 1.32",
+        "price": 4299,
+        "description": "MINIX Bond 1.32 Bluetooth Calling Smartwatch with 3 Interchangeable Watch Case and Strap l 9 Different Look",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/accsm1.jpg"
+            },
+            {
+                "image": "/images/products/accsm2.jpg"
+            },
+            {
+                "image": "/images/products/accsm3.jpg"
+            },
+            {
+                "image": "/images/products/accsm4.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 16,
+        "numOfReviews": 27,
+        "reviews": []
+    },
+    {
+        "name": "Amazon Brand - Eono HDMI Switch 4K",
+        "price": 999,
+        "description": "Amazon Brand - Eono HDMI Switch 4K, HDMI Splitter 3 in 1 Out, HDMI Switcher Hub Supports Full HD 1080P 3D HDCP Compatible with PS5, PS4, Game Consoles, Xbox, PC, TV",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/echdm1.jpg"
+            },
+            {
+                "image": "/images/products/echdm2.jpg"
+            },
+            {
+                "image": "/images/products/echdm3.jpg"
+            },
+            {
+                "image": "/images/products/echdm4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 19,
+        "numOfReviews": 21,
+        "reviews": []
+    },
+    {
+        "name": "Celfiexpt Selfie Stick",
+        "price": 2069,
+        "description": "Celfiexpt Selfie Stick with Tripod Stand 360 Degree Rotation 71-inch Extra Long Selfie Stick with Balance Handle,Quadripod Stand with Rechargeable Bluetooth Remote for Mobile Phone 1/4 Screw Compatible for Mirrorless Camera Ring Light Holder for Gopro,360°Panoramic Shooting Overhead Shoot YouTube Vlogging Live Stream Travel",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/ecslf1.jpg"
+            },
+            {
+                "image": "/images/products/ecslf2.jpg"
+            },
+            {
+                "image": "/images/products/ecslf3.jpg"
+            },
+            {
+                "image": "/images/products/ecslf4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Meesho",
+        "stock": 13,
+        "numOfReviews": 24,
+        "reviews": []
+    },
+    {
+        "name": "Amazon Basics 3MP wi-fi Bullet Camera",
+        "price": 2027,
+        "description": "Amazon Basics 3MP wi-fi Bullet Camera , Photography equipment,Dslr video, AI Powered Motion Detection, IP66 All Weather, Night Vision, 2-Way Audio, SD Storage(White), Made in India",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/eccm1.jpg"
+            },
+            {
+                "image": "/images/products/eccm2.jpg"
+            },
+            {
+                "image": "/images/products/eccm3.jpg"
+            },
+            {
+                "image": "/images/products/eccm4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Amazon",
+        "stock": 19,
+        "numOfReviews": 27,
+        "reviews": []
+    },
+    {
+        "name": "Tribit Wireless Bluetooth 5.0 Speakers",
+        "price": 2789,
+        "description": "Tribit [Upgraded Version] XSound Go Wireless Bluetooth 5.0 Speakers with Loud Stereo Sound & Rich Bass 16W,24H Playtime,100 ft Bluetooth Range,Outdoor Lightweight IPX7 Waterproof,Built-in Mic (Blue)",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/ecspkt1.jpg"
+            },
+            {
+                "image": "/images/products/ecspkt2.jpg"
+            },
+            {
+                "image": "/images/products/ecspkt3.jpg"
+            },
+            {
+                "image": "/images/products/ecspkt4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Flipkart",
+        "stock": 11,
+        "numOfReviews": 27,
+        "reviews": []
+    },
+    {
+        "name": "JBL Go 3, Wireless Ultra Portable Bluetooth Speaker",
+        "price": 2899,
+        "description": "JBL Go 3, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design, Waterproof, Type C (Without Mic, Teal), Standard",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/ecjbl1.jpg"
+            },
+            {
+                "image": "/images/products/ecjbl2.jpg"
+            },
+            {
+                "image": "/images/products/ecjbl3.jpg"
+            },
+            {
+                "image": "/images/products/ecjbl4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Meesho",
+        "stock": 18,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "ZEBRONICS Sound Feast 400 Bluetooth v5.0 Portable Speaker",
+        "price": 3489,
+        "description": "ZEBRONICS Sound Feast 400 Bluetooth v5.0 Portable Speaker with 60W Output, 11 Hours Backup, Voice Assistant, TWS, IPX5 Waterproof, Call Function, RGB Light, AUX, USB, FM Radio and Type C",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/eczb1.jpg"
+            },
+            {
+                "image": "/images/products/eczb2.jpg"
+            },
+            {
+                "image": "/images/products/eczb3.jpg"
+            },
+            {
+                "image": "/images/products/eczb4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Flipkart",
+        "stock": 14,
+        "numOfReviews": 23,
+        "reviews": []
+    },
+    {
+        "name": "Orion Choco Pie",
+        "price": 150,
+        "description": "Orion Choco Pie Premium Chocolate Gift pack (20 pies)|| Rakhi gift",
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/fdc1.jpg"
+            },
+            {
+                "image": "/images/products/fdc2.jpg"
+            },
+            {
+                "image": "/images/products/fdc3.jpg"
+            },
+            {
+                "image": "/images/products/fdc4.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Amazon",
+        "stock": 19,
+        "numOfReviews": 29,
+        "reviews": []
+    },
+    {
+        "name": "Omay Foods VARIETY COMBO PACK",
+        "price": 1569,
+        "description": "Omay Foods VARIETY COMBO PACK I Roasted Oil-free snacks I Healthy Seeds I Berries Mix I Guilt-free snacks I Snack Item I Snack Combo I Indian Snacks I Trail Mixes I Snacks for Weight Loss I Healthy Snack",
+        "ratings": 3.8,
+        "images": [
+            {
+                "image": "/images/products/fdrstd1.jpg"
+            },
+            {
+                "image": "/images/products/fdrstd2.jpg"
+            },
+            {
+                "image": "/images/products/fdrstd3.jpg"
+            },
+            {
+                "image": "/images/products/fdrstd4.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Flipkart",
+        "stock": 15,
+        "numOfReviews": 29,
+        "reviews": []
+    },
+    {
+        "name": "Nutella Hazelnut Spread with Cocoa || Foods",
+        "price": 769,
+        "description": "Nutella Hazelnut Spread with Cocoa, 12.35 oz / 750g",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/fdn1.jpg"
+            },
+            {
+                "image": "/images/products/fdn2.jpg"
+            },
+            {
+                "image": "/images/products/fdn3.jpg"
+            },
+            {
+                "image": "/images/products/fdn4.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Meesho",
+        "stock": 19,
+        "numOfReviews": 29,
+        "reviews": []
+    },
+    {
+        "name": "Food Items Sprinkle Mix",
+        "price": 469,
+        "description": "Food Items 710-0-0209 Sprinkle Mix, Traditional Christmas, 6-Cell",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/fdspnkl1.jpg"
+            },
+            {
+                "image": "/images/products/fdspnkl2.jpg"
+            },
+            {
+                "image": "/images/products/fdspnkl3.jpg"
+            },
+            {
+                "image": "/images/products/fdspnkl4.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Amazon",
+        "stock": 16,
+        "numOfReviews": 21,
+        "reviews": []
+    },
+    {
+        "name": "Rostaa Value Pack, Blueberries || Food",
+        "price": 1630,
+        "description": "Rostaa Value Pack, Blueberries, 1kg (Gluten Free, Non-GMO & Vegan) Whole and Unsweetened, Vitamin Rich Blueberries, Dried Blueberries, Low Fat Healthy Snacks,Rich in Calcium and Vitamin K, Sweet and Delicious",
+        "ratings": 4.3,
+        "images": [
+            {
+                "image": "/images/products/fdbl1.jpg"
+            },
+            {
+                "image": "/images/products/fdbl2.jpg"
+            },
+            {
+                "image": "/images/products/fdbl3.jpg"
+            },
+            {
+                "image": "/images/products/fdbl4.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Meesho",
+        "stock": 19,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "NUTRI MIRACLE Dry Fruits Chocolate Gift Box ",
+        "price": 2334,
+        "description": "NUTRI MIRACLE Dry Fruits Chocolate Gift Box | Dry Fruits and Chocolate Gift Hamper for Birthday | Rakhi | Anniversary | Wedding | Corporate,1.3kg",
+        "ratings": 3.2,
+        "images": [
+            {
+                "image": "/images/products/fddry1.jpg"
+            },
+            {
+                "image": "/images/products/fddry2.jpg"
+            },
+            {
+                "image": "/images/products/fddry3.jpg"
+            },
+            {
+                "image": "/images/products/fddry4.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Amazon",
+        "stock": 16,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "Big Money Little Effort",
+        "price": 449,
+        "description": "Big Money, Little Effort shows you how a straightforward, manageable and stress-free investment system, if properly applied and monitored, can protect you from the volatility of the world's stock markets while ensuring consistent returns on your original investment.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/bkBgM1.jpg"
+            },
+            {
+                "image": "/images/products/bkBgM2.jpg"
+            },
+            {
+                "image": "/images/products/bkBgM3.jpg"
+            },
+            {
+                "image": "/images/products/bkBgM4.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Meesho",
+        "stock": 9,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "Elon Musk: How the Billionaire CEO of SpaceX and Tesla",
+        "price": 406,
+        "description": "Musk is the founder, chairman, CEO and chief technology officer of SpaceX, angel investor, CEO and product architect of Tesla, Inc., owner, chairman and CTO of X Corp., founder of the Boring Company, a co-founder of Neuralink and OpenAI, and the president of the Musk Foundation.",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/products/bkElon1.jpg"
+            },
+            {
+                "image": "/images/products/bkElon2.jpg"
+            },
+            {
+                "image": "/images/products/bkElon3.jpg"
+            },
+            {
+                "image": "/images/products/bkElon4.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 17,
+        "numOfReviews": 29,
+        "reviews": []
+    },
+    {
+        "name": "Atomic Habits by James Clear",
+        "price": 469,
+        "description": "Atomic Habits by James Clear is a comprehensive, practical guide on how to change your habits and get 1% better every day. Using a framework called the Four Laws of Behavior Change, Atomic Habits teaches readers a simple set of rules for creating good habits and breaking bad ones.",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/bkAtm1.jpg"
+            },
+            {
+                "image": "/images/products/bkAtm2.jpg"
+            },
+            {
+                "image": "/images/products/bkAtm3.jpg"
+            },
+            {
+                "image": "/images/products/bkAtm4.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 19,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "The Psychology Of Money Paperback – 1 September 2020",
+        "price": 256,
+        "description": "Timeless lessons on wealth, greed, and happiness doing well with money isn?t necessarily about what you know. It?s about how you behave. And behavior is hard to teach, even to really smart people. How to manage money, invest it, and make business decisions are typically considered to involve a lot of mathematical calculations",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/bkMny1.jpg"
+            },
+            {
+                "image": "/images/products/bkMny2.jpg"
+            },
+            {
+                "image": "/images/products/bkMny3.jpg"
+            },
+            {
+                "image": "/images/products/bkMny4.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 19,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "Rich Dad Poor Dad",
+        "price": 335,
+        "description": " What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! Paperback – Import, 1 January 2022.April of 2022 marks a 25-year milestone for the personal finance classic Rich Dad Poor Dad that still ranks as the #1 Personal Finance book of all time. And although 25 years have passed since Rich Dad Poor Dad was first published,readers will find that very little in the book itself has changed ― and for good reason.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/bkRd1.jpg"
+            },
+            {
+                "image": "/images/products/bkRd2.jpg"
+            },
+            {
+                "image": "/images/products/bkRd3.jpg"
+            },
+            {
+                "image": "/images/products/bkRd4.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Flipkart",
+        "stock": 16,
+        "numOfReviews": 21,
+        "reviews": []
+    },
+    {
+        "name": "Attitude Is Everything: Change Your Attitude ... Change Your Life! ",
+        "price": 388,
+        "description": "IF YOU CAN DREAM IT, YOU CAN DO IT!Do you dread going to work? Do you feel tired, unhappy, weighed down? Have you given up on your dreams? The road to a happier, more successful life starts with your attitude--and your attitude is within your control.Whether your outlook is negative, positive or somewhere in between, Jeff Keller, motivational speaker and coach",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/bkAttd1.jpg"
+            },
+            {
+                "image": "/images/products/bkAttd2.jpg"
+            },
+            {
+                "image": "/images/products/bkAttd3.jpg"
+            },
+            {
+                "image": "/images/products/bkAttd4.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Amazon",
+        "stock": 12,
+        "numOfReviews": 21,
+        "reviews": []
+    }
+                      
+]
